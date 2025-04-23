@@ -7,3 +7,5 @@ build/liboauthcpp.a
 build/simple_auth
 build/simple_request
 build/tests
+build/*
+.*/
